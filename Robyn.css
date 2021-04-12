@@ -32,17 +32,18 @@
       <!--display: flex;-->
     }
 body {
-     margin-top: 250px;
+     margin: 0;
      background-color: #C9FBE8;
      font-family: Arial, sans-serif;
      <!--  background-image: url("background.jpg");-->
      width: 100vw;
 }
 h1   {
-     text-align:center;
+     margin: auto;
+margin-top: 250px; 
+      text-align:center;
      color: #0e435c;
 width:400px;
-  margin: auto;
 }
 p    {
      text-align:center;
